@@ -22,7 +22,7 @@ Este projeto é uma aplicação web que permite gerar registros DNS para domíni
 
 1. Clone o repositório para sua máquina local:
     ```sh
-    git clone https://github.com/seu-usuario/gerador-dns-cpanel-cloudflare.git
+    git clone https://github.com/heralddiniz/gerador-dns-cpanel-cloudflare.git
     ```
 
 2. Navegue até o diretório do projeto:
